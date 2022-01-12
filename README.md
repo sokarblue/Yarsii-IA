@@ -1,0 +1,2 @@
+# Yarsii-IA
+Inteligencia artificial
